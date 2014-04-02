@@ -1,0 +1,4 @@
+mylib
+=====
+
+some c++ function
