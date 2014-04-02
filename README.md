@@ -3,4 +3,4 @@ mylib
 
 some c++ function
 
-stupid git
+Creating a new branch is quick & simple.
